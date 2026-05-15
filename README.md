@@ -5,9 +5,9 @@ I am just a normal human being.
 
 ### 📊 My Stats
 <div align="center">
-<img width="504" height="450" alt="SpinnerFernGIF1-ezgif com-rotate" src="https://github.com/user-attachments/assets/b79ae78d-928f-4adc-a575-4231b34d173b" />
+<img width="390" height="150" alt="SpinnerFernGIF1-ezgif com-rotate" src="https://github.com/user-attachments/assets/b79ae78d-928f-4adc-a575-4231b34d173b" />
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cindigo-09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="504" height="450" alt="SpinnerFernGIF1-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f5c644be-72af-4dd2-a662-b1fc9ec34610" />
+<img width="390" height="150" alt="SpinnerFernGIF1-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f5c644be-72af-4dd2-a662-b1fc9ec34610" />
 </div>
 
 ---
