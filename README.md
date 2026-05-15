@@ -22,18 +22,16 @@ I am just a normal human being.
 ---
 
 
-
+### ⚡ Fun Facts
 <table>
   <tr>
     <td>
-      ### ⚡ Fun Facts
       <img width="140" height="150" src="https://media4.giphy.com/media/GCSEUPer8e9w1iHe2k/giphy.gif" />
     </td>
     <td>
       <ul>
-        <li>🎮 Currently optimizing my gaming setup for <b>CODM</b> and <b>Mobile Legends</b>.</li>
-        <li>🎧 Big fan of <b>NIKI</b> — I usually have a playlist running while I code.</li>
-        <li>🪄 "Journey's end is just the beginning."</li>
+        <li>🎮 I play <b>CODM</b> and <b>Mobile Legends</b>.</li>
+        <li>🎧 Big fan of <b>NIKI</b> — I usually have a playlist running while I code or game.</li>
       </ul>
     </td>
   </tr>
