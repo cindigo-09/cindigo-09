@@ -1,7 +1,4 @@
 # Hi there, I'm Arlindo aka. "Elias" 👋 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Dancing.png" align="right" width="100" /> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW02NmtqZnd3YWR4ZzZ6NXp0cXN6ZHBueW9qZnd6Nm85bmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wv6XQ6oYvAnfP6S2Cr/giphy.gif" width="120" />
-
 I am just a normal human being.
 
 ---
