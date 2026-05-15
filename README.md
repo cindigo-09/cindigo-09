@@ -6,7 +6,7 @@ I am just a normal human being.
 ### 📊 My Stats
 <div align="center">
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cindigo-09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="140" height="150" alt="anime-frieren" src="https://github.com/user-attachments/assets/21c69e94-b818-40c9-baf2-c6e668b9d286" />
+    <img width="140" height="150" src="https://github.com/user-attachments/assets/21c69e94-b818-40c9-baf2-c6e668b9d286" />
 </div>
 
 ---
