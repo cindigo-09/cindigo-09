@@ -24,3 +24,4 @@ I am just a normal human being.
 * 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
 * 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
 * 🪄 "Journey's end is just the beginning."
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW02NmtqZnd3YWR4ZzZ6NXp0cXN6ZHBueW9qZnd6Nm85bmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" align="left" width="180" />
