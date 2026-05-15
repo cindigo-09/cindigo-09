@@ -21,11 +21,12 @@ I am just a normal human being.
 
 ---
 
-### ⚡ Fun Facts
+
 
 <table>
   <tr>
     <td>
+      ### ⚡ Fun Facts
       <img width="140" height="150" src="https://media4.giphy.com/media/GCSEUPer8e9w1iHe2k/giphy.gif" />
     </td>
     <td>
