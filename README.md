@@ -21,13 +21,6 @@ I am just a normal human being.
 ---
 
 ### ⚡ Fun Facts
-
-
-
-
-
 * 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
 * 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
 * 🪄 "Journey's end is just the beginning."
-
-<br clear="left"/>
