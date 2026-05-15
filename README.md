@@ -1,4 +1,4 @@
-# Hi there, I'm Arlindo 👋
+# Hi there, I'm Arlindo aka. "Elias" 👋
 
 I am just a normal human being.
 
