@@ -11,8 +11,6 @@ I am just a normal human being.
 
 🌐 Connect with Me
 
-<p align="left">
-<a href="[Your-LinkedIn-URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arlindo Mayor Jr." height="30" width="40" /></a>
 <a href="https://www.facebook.com/lindooooooows/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arlindo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_arschiv3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arlindo" height="30" width="40" /></a>
 <a href="[https://open.spotify.com/user/[Your-Spotify-ID]](https://open.spotify.com/user/31qrsti44itg6ntscyobgdjzxxia)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="my-playlists" height="30" width="40" /></a>
