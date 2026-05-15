@@ -1,6 +1,9 @@
 # Hi there, I'm Arlindo aka. "Elias" 👋
 
 I am just a normal human being.
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3M0Z3RreHoxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/K7NHFfjSbeEdeEP6Jp/giphy.gif" width="150"/>
+</div>
 
 ### 📊 My Stats
 <div align="center">
