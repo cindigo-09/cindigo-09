@@ -23,3 +23,4 @@ I am just a normal human being.
 * 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
 * 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
 * 🪄 "Journey's end is just the beginning."
+<img width="504" height="450" alt="Spinner Fern GIF" src="https://github.com/user-attachments/assets/01b707f5-feff-4e9f-8c2e-331dc4a91c65" />
