@@ -22,8 +22,18 @@ I am just a normal human being.
 ---
 
 ### ⚡ Fun Facts
-* 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
-* 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
-* 🪄 "Journey's end is just the beginning."![Uploading Spinner Fern GIF.gif…]()
 
-    <img width="140" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1dnhteWJweWp3MzMzbnBtcm80bXRoN3NoNTJhanUyNDh1MTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GCSEUPer8e9w1iHe2k/giphy.gif" />
+<table>
+  <tr>
+    <td>
+      <img width="140" height="150" src="https://media4.giphy.com/media/GCSEUPer8e9w1iHe2k/giphy.gif" />
+    </td>
+    <td>
+      <ul>
+        <li>🎮 Currently optimizing my gaming setup for <b>CODM</b> and <b>Mobile Legends</b>.</li>
+        <li>🎧 Big fan of <b>NIKI</b> — I usually have a playlist running while I code.</li>
+        <li>🪄 "Journey's end is just the beginning."</li>
+      </ul>
+    </td>
+  </tr>
+</table>
