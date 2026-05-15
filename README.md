@@ -5,6 +5,7 @@ I am just a normal human being.
 
 ### 📊 My Stats
 <div align="center">
+    <img width="140" height="150" alt="SpinnerSpinningGIF-ezgif com-rotate" src="https://github.com/user-attachments/assets/e284f397-c7d7-4380-ae97-f70c6ac881ee" />
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cindigo-09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img width="140" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1dnhteWJweWp3MzMzbnBtcm80bXRoN3NoNTJhanUyNDh1MTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GCSEUPer8e9w1iHe2k/giphy.gif" />
 </div>
@@ -24,4 +25,3 @@ I am just a normal human being.
 * 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
 * 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
 * 🪄 "Journey's end is just the beginning."
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW02NmtqZnd3YWR4ZzZ6NXp0cXN6ZHBueW9qZnd6Nm85bmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" align="left" width="180" />
