@@ -21,7 +21,9 @@ I am just a normal human being.
 
 ### ⚡ Fun Facts
 
-<img src="https://media.tenor.com/ZKOkmte9l0AAAAC/frieren-frieren-beyond-journeys-end.gif" align="left" width="250" style="margin-right: 20px;" />
+
+<img width="140" height="130" alt="anime-frieren" src="https://github.com/user-attachments/assets/4cdf1ca3-01ce-4312-bc9f-d32103b0156c" />
+
 
 * 🎮 Currently optimizing my gaming setup for **CODM** and **Mobile Legends**.
 * 🎧 Big fan of **NIKI** — I usually have a playlist running while I code.
